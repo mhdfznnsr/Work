@@ -1,1 +1,3 @@
+Hand Sign Detection Card - 
 Hand Sign Detection is a project based on classification technique. It uses a pre-trained model - ssd_mobilenet - and uses it's neural network architecture to train a custom build dataset. Through Transfer Learning, a custom build dataset consisting of 160 images and their XML files are used for training purpose. It builds a model which can detect Hand Signs in real time by using WebCam.
+
