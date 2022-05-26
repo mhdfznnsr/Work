@@ -1,3 +1,6 @@
-Hand Sign Detection Card - 
+Hand Sign Detection - 
 Hand Sign Detection is a project based on classification technique. It uses a pre-trained model - ssd_mobilenet - and uses it's neural network architecture to train a custom build dataset. Through Transfer Learning, a custom build dataset consisting of 160 images and their XML files are used for training purpose. It builds a model which can detect Hand Signs in real time by using WebCam.
 
+
+Data Analytics - 
+Data Analytics is a field of extraction of data from multiple places or web pages and analyzing the data such that it completes our needs. This DA project focuses on web scraping and analyzing the data to fill the required attributes. It uses BeautifulSoup for web scraping and NLP for Sentiment Analysis.
