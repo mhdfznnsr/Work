@@ -1,0 +1,3 @@
+google.com	10.2.0.1
+facebook.com	10.2.0.2
+hotmail.com	10.2.0.3
